@@ -28,6 +28,12 @@ github:
 twitter:
   username: juliendkim            # change to your twitter username
 
+facebook:
+  username: juliendkim            # change to your facebook username
+
+linkedin:
+  username: juliendkim            # change to your linkedin username
+
 social:
   name: Dee Kim                  # it will shows as the copyright owner in Footer
   email: juliendkim@gmail.com             # change to your email address
@@ -36,8 +42,8 @@ social:
     - https://twitter.com/juliendkim      # change to your twitter homepage
     - https://github.com/juliendkim       # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/juliendkim
-    - https://www.linkedin.com/in/juliendkim
+    # - https://www.facebook.com/juliendkim
+    # - https://www.linkedin.com/in/juliendkim
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
