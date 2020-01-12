@@ -1,6 +1,6 @@
 ---
 layout: post
-title: train face then recognize
+title: Train face then Recognize
 categories: [Development, Deep Learning]
 tags: [deep learning, python, face recognition, opencv]
 ---
