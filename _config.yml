@@ -16,7 +16,7 @@ description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.
 
 # Replace with your domain, e.g. 'https://username.github.io'
-url: 'https://juliendkim.github.io'
+url: "https://juliendkim.github.io"
 
 author: Dee Kim                  # change to your full name
 
@@ -26,7 +26,7 @@ github:
   username: juliendkim@gmail.com             # change to your github username
 
 twitter:
-  username: @juliendkim            # change to your twitter username
+  username: juliendkim            # change to your twitter username
 
 social:
   name: Dee Kim                  # it will shows as the copyright owner in Footer
